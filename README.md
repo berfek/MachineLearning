@@ -4,7 +4,7 @@ This repository contains a collection of machine learning projects and experimen
 
 Table of Contents:
 
-Train delay prediction with Neural Networks for Multiclass Classification model
+Train delay prediction with Neural Networks for Multiclass Classification model:
 
 1. Reading json file, converting it from nested format to tabular
 2. Cyclical & Label Feature Encoding

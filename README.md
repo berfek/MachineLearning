@@ -15,6 +15,7 @@ Table of Contents:
    Multilayer Perceptron NN
    Confusion Matrix for Multiclass Labels
    Classification Report / Evaluation Metrics
+
    
 2. Regression and Binary Classification Analysis
    One hot and Label Encoding

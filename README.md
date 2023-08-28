@@ -27,7 +27,7 @@ Binary Classification
 Confusion Matrix for Binary Classification
 Classification Report / Evaluation Metrics
 
-Imbalanced Data
+Imbalanced Data:
 
 Handling imbalance problem with RandomOverSampling Method
    

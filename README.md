@@ -20,7 +20,7 @@ Classification Report / Evaluation Metrics
    
 ## Salary prediction with Regression and Binary Classification Analysis:
 
-**File Name:** SalaryPrediction_Regression_BinaryClassification
+**File Name:** 'SalaryPrediction_Regression_BinaryClassification'
 
 One hot and Label Encoding
 Correalation Matrix
@@ -31,7 +31,7 @@ Classification Report / Evaluation Metrics
 
 ## Imbalanced Data:
 
-**File Name:**: Imbalanced_Data
+**File Name:**: 'Imbalanced_Data'
 
 Handling imbalance problem with RandomOverSampling Method
    

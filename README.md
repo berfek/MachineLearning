@@ -2,7 +2,7 @@
 Welcome to my Machine Learning repository!
 This repository contains a collection of machine learning projects and experiments that I've worked on. From classic algorithms to advanced deep learning models, you'll find a variety of topics covered here. Each project includes well-organized code to help you understand and reproduce the results.
 
-## Train delay prediction with Neural Networks for Multiclass Classification model
+### Train delay prediction with Neural Networks for Multiclass Classification model
 
 **File Name:** 'NeuralNetworks_DelayPrediction'
 
@@ -18,7 +18,7 @@ Multilayer Perceptron NN
 Confusion Matrix for Multiclass Labels
 Classification Report / Evaluation Metrics
    
-## Salary prediction with Regression and Binary Classification Analysis:
+### Salary prediction with Regression and Binary Classification Analysis:
 
 **File Name:** 'SalaryPrediction_Regression_BinaryClassification'
 
@@ -29,7 +29,7 @@ Binary Classification
 Confusion Matrix for Binary Classification
 Classification Report / Evaluation Metrics
 
-## Imbalanced Data:
+### Imbalanced Data:
 
 **File Name:**: 'Imbalanced_Data'
 

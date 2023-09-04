@@ -34,6 +34,7 @@ Classification Report / Evaluation Metrics
 ## Imbalanced Data:
 
 **File Name:**: Imbalanced_Data
+
 Handling imbalance problem with RandomOverSampling Method
    
    

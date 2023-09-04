@@ -4,7 +4,9 @@ This repository contains a collection of machine learning projects and experimen
 
 Table of Contents:
 
-Train delay prediction with Neural Networks for Multiclass Classification model:
+## Train delay prediction with Neural Networks for Multiclass Classification model
+
+**File Name:** 'NeuralNetworks_DelayPrediction'
 
 Reading json file, converting it from nested format to tabular
 Cyclical & Label Feature Encoding
@@ -18,7 +20,9 @@ Multilayer Perceptron NN
 Confusion Matrix for Multiclass Labels
 Classification Report / Evaluation Metrics
    
-Salary prediction with Regression and Binary Classification Analysis:
+## Salary prediction with Regression and Binary Classification Analysis:
+
+**File Name:** SalaryPrediction_Regression_BinaryClassification
 
 One hot and Label Encoding
 Correalation Matrix
@@ -27,8 +31,9 @@ Binary Classification
 Confusion Matrix for Binary Classification
 Classification Report / Evaluation Metrics
 
-Imbalanced Data:
+## Imbalanced Data:
 
+**File Name:**: Imbalanced_Data
 Handling imbalance problem with RandomOverSampling Method
    
    

@@ -2,8 +2,6 @@
 Welcome to my Machine Learning repository!
 This repository contains a collection of machine learning projects and experiments that I've worked on. From classic algorithms to advanced deep learning models, you'll find a variety of topics covered here. Each project includes well-organized code to help you understand and reproduce the results.
 
-Table of Contents:
-
 ## Train delay prediction with Neural Networks for Multiclass Classification model
 
 **File Name:** 'NeuralNetworks_DelayPrediction'
